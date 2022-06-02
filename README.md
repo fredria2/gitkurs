@@ -1,2 +1,3 @@
 # gitkurs
-Testresporitory til gitkurs
+
+Her kan man skrive mye rart.
